@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LrRtCfme+dmB85S/apsZTb1xFiaq52Arht7W68rd9eeOStIYOWUqdPTuR0Os4yZIn3duOxgO8Y6oU8OE/KoDlg==",
+  "success": true,
+  "projectFilePath": "D:\\11.- dotnet\\DependencyInyection\\DependencyInyectionTest\\DependencyInyectionTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

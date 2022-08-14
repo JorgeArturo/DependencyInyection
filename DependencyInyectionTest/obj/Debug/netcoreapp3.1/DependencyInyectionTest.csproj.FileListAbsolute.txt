@@ -1,0 +1,17 @@
+D:\11.- dotnet\DependencyInyection\DependencyInyectionTest\bin\Debug\netcoreapp3.1\DependencyInyectionTest.exe
+D:\11.- dotnet\DependencyInyection\DependencyInyectionTest\bin\Debug\netcoreapp3.1\DependencyInyectionTest.deps.json
+D:\11.- dotnet\DependencyInyection\DependencyInyectionTest\bin\Debug\netcoreapp3.1\DependencyInyectionTest.runtimeconfig.json
+D:\11.- dotnet\DependencyInyection\DependencyInyectionTest\bin\Debug\netcoreapp3.1\DependencyInyectionTest.runtimeconfig.dev.json
+D:\11.- dotnet\DependencyInyection\DependencyInyectionTest\bin\Debug\netcoreapp3.1\DependencyInyectionTest.dll
+D:\11.- dotnet\DependencyInyection\DependencyInyectionTest\bin\Debug\netcoreapp3.1\DependencyInyectionTest.pdb
+D:\11.- dotnet\DependencyInyection\DependencyInyectionTest\bin\Debug\netcoreapp3.1\Autofac.dll
+D:\11.- dotnet\DependencyInyection\DependencyInyectionTest\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\11.- dotnet\DependencyInyection\DependencyInyectionTest\obj\Debug\netcoreapp3.1\DependencyInyectionTest.csproj.AssemblyReference.cache
+D:\11.- dotnet\DependencyInyection\DependencyInyectionTest\obj\Debug\netcoreapp3.1\DependencyInyectionTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\11.- dotnet\DependencyInyection\DependencyInyectionTest\obj\Debug\netcoreapp3.1\DependencyInyectionTest.AssemblyInfoInputs.cache
+D:\11.- dotnet\DependencyInyection\DependencyInyectionTest\obj\Debug\netcoreapp3.1\DependencyInyectionTest.AssemblyInfo.cs
+D:\11.- dotnet\DependencyInyection\DependencyInyectionTest\obj\Debug\netcoreapp3.1\DependencyInyectionTest.csproj.CoreCompileInputs.cache
+D:\11.- dotnet\DependencyInyection\DependencyInyectionTest\obj\Debug\netcoreapp3.1\DependencyInyectionTest.csproj.CopyComplete
+D:\11.- dotnet\DependencyInyection\DependencyInyectionTest\obj\Debug\netcoreapp3.1\DependencyInyectionTest.dll
+D:\11.- dotnet\DependencyInyection\DependencyInyectionTest\obj\Debug\netcoreapp3.1\DependencyInyectionTest.pdb
+D:\11.- dotnet\DependencyInyection\DependencyInyectionTest\obj\Debug\netcoreapp3.1\DependencyInyectionTest.genruntimeconfig.cache
